@@ -14,6 +14,7 @@
 		48EA5D751C8A133500A5A85C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48EA5D731C8A133500A5A85C /* LaunchScreen.storyboard */; };
 		48EA5D801C8A133500A5A85C /* Demo2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48EA5D7F1C8A133500A5A85C /* Demo2Tests.swift */; };
 		48EA5D8B1C8A133500A5A85C /* Demo2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48EA5D8A1C8A133500A5A85C /* Demo2UITests.swift */; };
+		48EA5D991C8A15C200A5A85C /* file1test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48EA5D981C8A15C200A5A85C /* file1test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		48EA5D861C8A133500A5A85C /* Demo2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Demo2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		48EA5D8A1C8A133500A5A85C /* Demo2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo2UITests.swift; sourceTree = "<group>"; };
 		48EA5D8C1C8A133500A5A85C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48EA5D981C8A15C200A5A85C /* file1test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = file1test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				48EA5D6A1C8A133500A5A85C /* AppDelegate.swift */,
 				48EA5D6C1C8A133500A5A85C /* ViewController.swift */,
+				48EA5D981C8A15C200A5A85C /* file1test.swift */,
 				48EA5D6E1C8A133500A5A85C /* Main.storyboard */,
 				48EA5D711C8A133500A5A85C /* Assets.xcassets */,
 				48EA5D731C8A133500A5A85C /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48EA5D991C8A15C200A5A85C /* file1test.swift in Sources */,
 				48EA5D6D1C8A133500A5A85C /* ViewController.swift in Sources */,
 				48EA5D6B1C8A133500A5A85C /* AppDelegate.swift in Sources */,
 			);
